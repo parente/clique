@@ -36,6 +36,23 @@ Don't expect it to run out of the box.
 
 Instead, treat it as a reference implementation of the concepts discussed in my dissertation. Pilfer it for ideas, not lines of code. In fact, if I were to rewrite Clique today, I would keep the design of the auditory display the same but completely overhaul the internals.
 
+Attribution
+===========
+
+The source includes the following sounds licensed under various `Creative Commons`__ licenses:
+
+* By `man`__ : `soldati-marcia.aif`__
+* By `jnr hacksaw`__ : `Zap.flac`__
+* By `csengeri`__ : `Cricket2.wav`__
+
+__ http://creativecommons.org/
+__ http://freesound.iua.upf.edu/usersViewSingle.php?id=14447
+__ http://freesound.iua.upf.edu/samplesViewSingle.php?id=14624
+__ http://freesound.iua.upf.edu/usersViewSingle.php?id=29612
+__ http://freesound.iua.upf.edu/samplesViewSingle.php?id=11221
+__ http://freesound.iua.upf.edu/usersViewSingle.php?id=197070
+__ http://freesound.iua.upf.edu/samplesViewSingle.php?id=34218
+
 License
 =======
 
